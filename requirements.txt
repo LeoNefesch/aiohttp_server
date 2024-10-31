@@ -1,0 +1,7 @@
+aiohttp==3.10.10
+aiohttp-jinja2==1.6
+alembic==1.13.3
+gino==1.0.1
+psycopg2==2.9.10
+python-dotenv==1.0.1
+PyYAML==6.0.2

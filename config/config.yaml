@@ -1,0 +1,4 @@
+common:
+  port: 8080
+postgres:
+  require_ssl: false
